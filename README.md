@@ -14,4 +14,4 @@ python3 name_of_the_script.py
 ```
 ## Note
 
-Some of the scripts have two types of implementation of the algorithms.
+Some of the scripts have two types of implementation.
